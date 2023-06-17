@@ -1,5 +1,4 @@
 # Lud-Code #
-===============================================================
 - 👋 Hi, I’m lud-code.  ☭
 - 👀 I’m interested in Linux and scripting.
 - 🌱 I currently know Python, Bash, and a bit of C.
