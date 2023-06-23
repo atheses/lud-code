@@ -8,4 +8,4 @@
 ## where you can find me at ##
 [![Discord Presence](https://lanyard.cnrad.dev/api/1036764211159765042)](https://discord.com/users/1036764211159765042)
 ## my stats ##
-[![atheses' GitHub stats](https://github-readme-stats.vercel.app/api?username=atheses)](https://github.com/atheses/github-readme-stats)
+[![atheses' GitHub stats](https://github-readme-stats.vercel.app/api?username=atheses)](https://github.com/anuraghazra/github-readme-stats)
